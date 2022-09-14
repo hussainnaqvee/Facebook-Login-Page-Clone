@@ -7,9 +7,6 @@ body{
    justify-content: space-evenly;
    align-items: center;
 }
-/* .text-wrapper{
-    padding-right: 10px;
-} */
 .text-wrapper img {
    height:106px;
 }
@@ -100,6 +97,9 @@ body{
 }
 .login-btn{
     width:320px;
+}
+.login-wrapper>hr {
+    width: 320px;
 }
 }
     
